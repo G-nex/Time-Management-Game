@@ -1,6 +1,4 @@
-Hey everyone, I finished my time management game and decided to share my code with the community! You can use this freely in your own projects (credit would be appreciated though). Suggestions on how to simplify this code would also be appreciated.
 
-(I replaced my old post with this one so please ignore the 2 first comments)
 
 ~~~
 
