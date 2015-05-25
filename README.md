@@ -1,7 +1,4 @@
 
-
-~~~
-
 --# Clicker
 Clicker = class()
 
@@ -153,5 +150,3 @@ function touched(t)
             end
         end
 end
-
-~~~
